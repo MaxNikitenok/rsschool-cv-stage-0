@@ -1,1 +1,1 @@
-# rssschool-cv
+https://maxnikitenok.github.io/rssschool-cv/cv
