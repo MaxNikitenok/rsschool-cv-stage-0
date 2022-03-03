@@ -17,7 +17,17 @@ In Future Frontend Developer
  ## **About Me**
 
 
- I Am Iron Man
+ I am 31 years old, I am a sole trader. I want to change the field in which I work. I like programming. And the first thing I want to learn is front-end development.
+
+**My strengths:**
+
+ * Fast learner
+
+ * Full immersion in the essence of the problems
+
+ * industriousness
+
+ * Team game
 
  ## **Skills and Proficiency:**
 
@@ -29,16 +39,30 @@ In Future Frontend Developer
 
  * Git, GitHub
  
- * VS Code, Adobe Photoshop, Zepelin, Figma
+ * VS Code, Adobe Photoshop, Zepelin, Figma, Avocode
 
  ## **Code Example**
- 
+ Absent vowel (Codewars kata) 
+
+```
+let arrVow = ["a", "e", "i", "o", "u"];
+function absentVowel(x) {
+  for (let i = 0; i < 5; i++) {
+    if ((x.indexOf(arrVow[i])) == -1) {
+       return (i);
+    }
+  } 
+};
+```
+
+
 
 
 
 
 ## **Experience**
 
+Nothing yet…
 
 ## **Courses**
 
@@ -51,4 +75,4 @@ In Future Frontend Developer
 
 ## **English**
 
-(A1) I continue my education
+(A1) I continue my education...
